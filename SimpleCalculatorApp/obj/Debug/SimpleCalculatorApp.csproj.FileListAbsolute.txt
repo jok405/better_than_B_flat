@@ -1,0 +1,10 @@
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe.config
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.exe
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\bin\Debug\SimpleCalculatorApp.pdb
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csprojAssemblyReference.cache
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Properties.Resources.resources
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.GenerateResource.cache
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.exe
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.pdb
+C:\Users\jykim\Desktop\sandbox\SimpleCalculatorApp\SimpleCalculatorApp\obj\Debug\SimpleCalculatorApp.Form1.resources
